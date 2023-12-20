@@ -2,7 +2,7 @@ ManifestFileVersion: 1
 CompatibilityAssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: spatial-island_0
-      Hash: 735b804aa1baa7be81eeeb56b6743459
-      CRC: 1670809526
+      Name: alien-settlement_0
+      Hash: 5efa937ef31609bc6917efea613b26fa
+      CRC: 2628992561
       Dependencies: {}
